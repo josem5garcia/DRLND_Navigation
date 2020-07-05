@@ -16,3 +16,8 @@ The aiming of the project was to reach an average of rewards of 13, and this is 
 ![results_01](images/res_01.png)
 
 ## Future improvements
+Although the objective proposed for the project has been achieved, this can be highly improved, and here some future improvements are proposed:
+
+1. More layers in the Neural network
+2. Increase the batch size to have a more frequent update of the network
+3. Try other models such as Dueling Double Q-Learning
