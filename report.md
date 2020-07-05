@@ -10,4 +10,4 @@ Q(s_t, a_t) = (1 - \alpha)\cdotQ(s_t, a_t) + \alpha \cdot (r_{t+1} + \gamma \cdo
 ![\Large Q(s_t, a_t) = (1 - \alpha)\cdotQ(s_t, a_t) + \alpha \cdot (r_{t+1} + \gamma \cdot \max_{a} Q(s_{t+1}, a)](https://latex.codecogs.com/svg.latex?x%3D%5Cfrac%7B-b%5Cpm%5Csqrt%7Bb%5E2-4ac%7D%7D%7B2a%7D)
 
 
-![\Large Q(s_t, a_t) = (1 - \alpha)\cdotQ(s_t, a_t) + \alpha \cdot (r_{t+1} + \gamma \cdot \max_{a} Q(s_{t+1}, a)](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
+![\Large Q(s_t, a_t) = (1 - \alpha)\cdot Q(s_t, a_t) + \alpha \cdot \left(r_{t+1} + \gamma \cdot \max_{a} Q(s_{t+1}, a)\right)](http://latex.codecogs.com/gif.latex?Concentration%3D%5Cfrac%7BTotalTemplate%7D%7BTotalVolume%7D)
