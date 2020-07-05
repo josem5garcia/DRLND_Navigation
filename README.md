@@ -18,3 +18,9 @@ Finally, it must be highlighted that the action space has 37 dimensions, includi
 
 ## How to run the agent
 In order to do this, it is just necesary to run the file 'project.ipynb', or open the Unity ML Agent with the weights included in the repository (already trained agent).
+
+## Installing what is required
+1. Install Unity (https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Installation.md)
+2. Download the Unity ML environment and unzip the file (it must be pasted in the root folder).
+3. Create Conda Environment with Python 3.6
+4. Install Dependencies (python folder)
